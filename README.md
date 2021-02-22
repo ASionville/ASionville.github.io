@@ -3,6 +3,8 @@
 Je suis un étudiant en informatque, grand passionné d'informatique et de friand de nouvelles technologies.<br>
 Je suis particulièrement intéressé par les intelligences artificielles.
 
+[Email](mailto:aubin.sionville@stfrancoislaroche.fr) / [Site Web](http://asionville.github.io) / [GitHub](https://github.com/ASionville) / [LinkedIn](https://fr.linkedin.com/in/aubin-sionville-a02bb119b)
+
 ## Education
 
 **Bac Général et Technologique** Spécialités Maths, Informatique et Physique Chimie <br>
@@ -65,3 +67,13 @@ Projet seul
 
 Date : 2020
 Lien : [Projet Github](https://github.com/ASionville/Python-Audio-Assistant)
+
+
+**Partenariat avec BeamNG-Research**
+Un projet très ambitieux, toujours en cours. En partenariat avec [BeamNG-Research](https://beamng.gmbh/research/), qui développe le logiciel de simulation automobile avec le moteur physique le plus réaliste disponible suur le marché.<br>
+Le projet consiste en une intelligence artificielle capable de conduire de manière indépendante dans la simulation.
+
+Date : 2020-
+
+
+Retrouvez d'autres de mes projets sur [mon profil Github](https://github.com/ASionville)
