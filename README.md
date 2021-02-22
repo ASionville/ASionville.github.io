@@ -14,3 +14,15 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 **Anglais**  : C1 (TOEIC passé en 2021 avec un score de 960)<br>
 **Espagnol** : ~A2<br>
 **Chinois**  : ~A1<br>
+
+---
+
+
+## Certificats et diplômes
+
+**Certificats OpenClassroom** : 14 Certificats *(2016-)*<br>
+**Concours national de mathématiques** : Académie de Nantes : XXè en individuel et XXè en groupe<br> *(2020)*
+**Certificat Udemy** : Deep Learning *(2021)*<br>
+**TOEIC** : 960/990  *(2021)*<br>
+**Test Cambridge** ??? *(2021)*<br>
+**Baccalauréat** ??? *(2021)*
