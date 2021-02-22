@@ -12,11 +12,14 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 
 ### 💬 Langues
 
-**Français** : ![100%](https://progress-bar.dev/100) Langue maternelle<br>
-**Anglais**  : ![85%](https://progress-bar.dev/85) C1 (TOEIC passé en 2021 avec un score de 960)<br>
-
-**Espagnol** : ![50%](https://progress-bar.dev/50) ~A2<br>
-**Chinois**  : ![15%](https://progress-bar.dev/15) ~A1<br>
+**Français** : Langue maternelle<br>
+![100%](https://progress-bar.dev/100)<br>
+**Anglais**  : C1 (TOEIC passé en 2021 avec un score de 960)<br>
+![85%](https://progress-bar.dev/85)<br>
+**Espagnol** : ~A2<br>
+![50%](https://progress-bar.dev/50)<br>
+**Chinois**  : ~A1<br>
+![15%](https://progress-bar.dev/15)<br>
 
 
 ---
