@@ -53,7 +53,7 @@ Rôle dans le projet : **Chef de projet** - **Développeur Back-End** - **Gestio
 Date : 2020 - 2021
 Lien : Privé - Sous mot de passe
 
-**Py3D**
+**Py3D**<br>
 Un module python en français, qui vise à simplifier les programmes utilisants de la géométrie 2D ou 3D.<br>
 Il vise à être utilisé par les collégiens, lycéens et étudiants afin de faciliter leurs projets ou leurs démonstrations incluant de la géométrie 2D / 3D.<br>
 Projet seul.
@@ -61,7 +61,7 @@ Projet seul.
 Date : 2021
 Lien : [Projet Github](https://github.com/ASionville/py3d)
 
-**Python Audio Assistant**
+**Python Audio Assistant**<br>
 Un de mes premiers projets sérieux, un petit script python qui utilise [Google Text to Speech](https://github.com/pndurette/gTTS) et [Wolfram Alpha](https://www.wolframalpha.com/) afin de créer un assistant audio qui répond à toutes *(ou presque)* les questions scientifiques qui lui sont posées.<br>
 Projet seul
 
@@ -69,7 +69,7 @@ Date : 2020
 Lien : [Projet Github](https://github.com/ASionville/Python-Audio-Assistant)
 
 
-**Partenariat avec BeamNG-Research**
+**Partenariat avec BeamNG-Research**<br>
 Un projet très ambitieux, toujours en cours. En partenariat avec [BeamNG-Research](https://beamng.gmbh/research/), qui développe le logiciel de simulation automobile avec le moteur physique le plus réaliste disponible suur le marché.<br>
 Le projet consiste en une intelligence artificielle capable de conduire de manière indépendante dans la simulation.
 
