@@ -48,4 +48,20 @@ Plateforme en ligne créée en collaboration avec trois amis pour le [Lycée Sai
 Permet de vérifier et de modifier les accès et les autorisations du personnel et des internes à chaque salle ou chambre d'internat.<br>
 Rôle dans le projet : **Chef de projet** - **Développeur Back-End** - **Gestion BDD**
 
-**
+Date : 2020 - 2021
+Lien : Privé - Sous mot de passe
+
+**Py3D**
+Un module python en français, qui vise à simplifier les programmes utilisants de la géométrie 2D ou 3D.<br>
+Il vise à être utilisé par les collégiens, lycéens et étudiants afin de faciliter leurs projets ou leurs démonstrations incluant de la géométrie 2D / 3D.<br>
+Projet seul.
+
+Date : 2021
+Lien : [Projet Github](https://github.com/ASionville/py3d)
+
+**Python Audio Assistant**
+Un de mes premiers projets sérieux, un petit script python qui utilise [Google Text to Speech](https://github.com/pndurette/gTTS) et [Wolfram Alpha](https://www.wolframalpha.com/) afin de créer un assistant audio qui répond à toutes *(ou presque)* les questions scientifiques qui lui sont posées.<br>
+Projet seul
+
+Date : 2020
+Lien : [Projet Github](https://github.com/ASionville/Python-Audio-Assistant)
