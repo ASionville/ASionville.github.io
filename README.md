@@ -1,4 +1,4 @@
-## Qui suis-je ?
+## ❔ Qui suis-je ?
 
 Je suis un étudiant en informatque, grand passionné d'informatique et de friand de nouvelles technologies.<br>
 Je suis particulièrement intéressé par les intelligences artificielles.
