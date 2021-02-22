@@ -23,8 +23,7 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 **Certificats OpenClassroom** : 14 Certificats *(2016 - )*<br>
 <dl>
    <dt>**Concours national de mathématiques** : Académie de Nantes : *(2020)*</dt>
-   <dd>XXè en groupe</dd>
-   <dd>XXè en individuel</dd>
+   <dd>XXè en groupe</dd><dd>XXè en individuel</dd>
 </dl>
 
 **Certificat Udemy** : Deep Learning *(2021)*<br>
