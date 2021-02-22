@@ -1,7 +1,7 @@
 ## Education
 
 **Bac Général et Technologique** Spécialités Maths, Informatique et Physique Chimie <br>
-[Lycée Saint François d'Assise](saintfrancoislaroche.fr) *La Roche Sur Yon 2018-2021*
+[Lycée Saint François d'Assise](http://saintfrancoislaroche.fr) La Roche Sur Yon  *(2018-2021)*
 
 ### Markdown
 
