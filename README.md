@@ -10,7 +10,7 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 
 ### Langues
 
-**Français** : Langue maternelle
-**Anglais**  : C1 (TOEIC passé en 2021 avec un score de 960)
-**Espagnol** : ~A2
-**Chinois**  : ~A1
+**Français** : Langue maternelle<br>
+**Anglais**  : C1 (TOEIC passé en 2021 avec un score de 960)<br>
+**Espagnol** : ~A2<br>
+**Chinois**  : ~A1<br>
