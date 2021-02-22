@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/ASionville/ASionville.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Bac Général et Technologique** Spécialités Maths, Informatique et Physique Chimie <br>
+[Lycée Saint François d'Assise](saintfrancoislaroche.fr) *La Roche Sur Yon 2018-2021*
 
 ### Markdown
 
