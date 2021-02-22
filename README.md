@@ -5,7 +5,7 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 
 [Email](mailto:aubin.sionville@stfrancoislaroche.fr) / [Site Web](http://asionville.github.io) / [GitHub](https://github.com/ASionville) / [LinkedIn](https://fr.linkedin.com/in/aubin-sionville-a02bb119b)
 
-## 🧑‍🎓 Education
+## 🎓 Education
 
 **Bac Général et Technologique** Spécialités Maths, Informatique et Physique Chimie <br>
 [Lycée Saint François d'Assise](www.saintfrancoislaroche.fr), La Roche Sur Yon  *(2018-2021)*
@@ -36,7 +36,7 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 ---
 
 
-## 🧑‍💼 Expérience professionnelle
+## 💼 Expérience professionnelle
 
 **Stage de deux semaines**, [FlexSense](http://www.flex-sense.com/) *(2018)*<br>
 Participation à l'élaboration du Frigo Connecté à l'occasion des 48H ChronoLoco de la Loco Numérique
