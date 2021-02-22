@@ -12,10 +12,12 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 
 ### 💬 Langues
 
-**Français** : Langue maternelle<br>
-**Anglais**  : C1 (TOEIC passé en 2021 avec un score de 960)<br>
-**Espagnol** : ~A2<br>
-**Chinois**  : ~A1<br>
+**Français** : ![100%](https://progress-bar.dev/100) Langue maternelle<br>
+**Anglais**  : ![85%](https://progress-bar.dev/85) C1 (TOEIC passé en 2021 avec un score de 960)<br>
+
+**Espagnol** : ![50%](https://progress-bar.dev/50) ~A2<br>
+**Chinois**  : ![15%](https://progress-bar.dev/15) ~A1<br>
+
 
 ---
 
@@ -49,7 +51,7 @@ Participation à l'élaboration du Frigo Connecté à l'occasion des 48H ChronoL
 Plateforme en ligne créée en collaboration avec trois amis pour le [Lycée Saint François d'Assise](www.saintfrancoislaroche.fr).<br>
 Permet de vérifier et de modifier les accès et les autorisations du personnel et des internes à chaque salle ou chambre d'internat.<br>
 Rôle dans le projet : **Chef de projet** - **Développeur Back-End** - **Gestion BDD**
-
+""
 Date : 2020 - 2021
 Lien : Privé - Sous mot de passe
 
@@ -77,3 +79,9 @@ Date : 2020-
 
 
 Retrouvez d'autres de mes projets sur [mon profil Github](https://github.com/ASionville)
+
+
+---
+
+
+## 
