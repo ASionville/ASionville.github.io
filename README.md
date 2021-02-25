@@ -36,7 +36,7 @@ Contacts très fréquents avec un ami chinois, habitant à Binzhou, venu deux an
 **Certificats OpenClassroom** : 14 Certificats *(2016 - )*<br>
 <dl>
    <dt><b>Concours national de mathématiques</b> : Académie de Nantes : <em>(2020)</em></dt>
-   <dd>XXè en groupe</dd><dd>XXè en individuel</dd>
+   <dd>66è/200 en groupe</dd><dd>58è/741 en individuel</dd>
 </dl>
 
 **Certificat Udemy** : Deep Learning *(2021)*<br>
