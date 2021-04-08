@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: asionville.github.io
+Token: 75439f45ad17cea321bdceb170428380a760f0c8bedf30b41fcb1a46ac4ef9fb
