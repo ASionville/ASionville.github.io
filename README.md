@@ -42,7 +42,7 @@ Contacts très fréquents avec un ami chinois, habitant à Binzhou, venu deux an
 **Certificat Udemy** : Deep Learning *(2021)*<br>
 **TOEIC** : 960/990 - [Niveau C1](https://www.efset.org/fr/cefr/c1/)  *(2021)*<br>
 **Test Cambridge** ??? *(2021)*<br>
-**Baccalauréat** ??? *(2021)*
+**Baccalauréat** : Obtenu Mention Très Bien / Mention Européenne avec 17.20 de moyenne *(2021)*
 
 ---
 
