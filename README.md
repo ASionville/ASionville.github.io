@@ -10,6 +10,9 @@ Je suis particulièrement intéressé par les intelligences artificielles.
 **Bac Général et Technologique** Spécialités Maths, Informatique et Physique Chimie <br>
 [Lycée Saint François d'Assise](www.saintfrancoislaroche.fr), La Roche Sur Yon  *(2018-2021)*
 
+**Prépa MP2I** Maths, Physique, Informatique, Ingénierie
+[Lycée Clémenceau](https://gclemenceau.paysdelaloire.e-lyco.fr/), Nantes *(2021-2023)*
+
 ### 💬 Langues
 
 **Français** : Langue maternelle<br>
@@ -41,7 +44,7 @@ Contacts très fréquents avec un ami chinois, habitant à Binzhou, venu deux an
 
 **Certificat Udemy** : Deep Learning *(2021)*<br>
 **TOEIC** : 960/990 - [Niveau C1](https://www.efset.org/fr/cefr/c1/)  *(2021)*<br>
-**Test Cambridge** ??? *(2021)*<br>
+**Test Cambridge** [Niveau B2](https://www.efset.org/fr/cefr/b2/) *(2021)*<br>
 **Baccalauréat** : Obtenu Mention Très Bien / Mention Européenne avec 17.20 de moyenne *(2021)*
 
 ---
@@ -108,5 +111,6 @@ Retrouvez d'autres de mes projets sur [mon profil Github](https://github.com/ASi
 
 En plus des différents échanges et voyages à l'étranger auxquels j'ai eu la chance de participer, je m'engage dans des actions qui visent à démocratiser l'Open Source et la diffusion des savoirs, aussi bien vers l'international que vers l'avenir.<br>
 A ce titre, je participe au programme [Arctic Code Vault](https://archiveprogram.github.com/arctic-vault/) de Github, qui permet une sauvegarde dans le temps des programmes informatiques.<br>
+J'ai également eu l'opportunité de découvrir [Github Copilot](https://copilot.github.com/) lors de sa beta fermée, c'est une Intelligence Artificielle très puissante qui aide à coder plus rapidement.
 De plus, j'ai eu l'occasion de m'inverstir dans plusieurs projets open-source, ou d'en suivre et d'en soutenir d'autres, à l'exemple du logiciel de modélisation 3D [Blender](https://www.blender.org/).<br>
 Finalement, j'ai beaucoup de contacts à l'international, de Youtube, des connaissances personnelles ou encore des personnes avec qui j'ai eu et j'ai encore la chance de travailler.
